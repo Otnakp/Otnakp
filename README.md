@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+I'm a software developer based in Italy, I work as a programmer and study AI in university.
 
 <!--
 **Otnakp/Otnakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
